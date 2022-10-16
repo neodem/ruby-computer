@@ -1,0 +1,5 @@
+ORG $010
+LDA #5
+ADC #3
+STA $100
+HLT
